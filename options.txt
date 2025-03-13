@@ -1,0 +1,4 @@
+version:1343
+autoJump:false
+enableVsync:false
+maxFps:260
