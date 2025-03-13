@@ -1,0 +1,85 @@
+{
+    "curse": [
+        {
+            "installationPolicy": {
+                "description": "!!!OPTIONAL!!! [Modern Splash] - better Splash Screen and startup timer"
+            },
+            "metadata": {
+                "side": "CLIENT"
+            },
+            "addonId": 629058,
+            "fileId": 5282442
+        },
+        {
+            "installationPolicy": {
+                "description": "!!!OPTIONAL!!! [FluxLoading] - smoother world joining"
+            },
+            "metadata": {
+                "side": "CLIENT"
+            },
+            "addonId": 1207328,
+            "fileId": 6245286
+        },
+        {
+            "installationPolicy": {
+                "description": "!!!OPTIONAL!!! [ScalingGUIs] - help with GUI size on large monitors"
+            },
+            "metadata": {
+                "side": "CLIENT"
+            },
+            "addonId": 319656,
+            "fileId": 5150678
+        },
+        {
+            "installationPolicy": {
+                "description": "!!!OPTIONAL!!! [F3 Is My Shawty] - clean up the F3 menu"
+            },
+            "metadata": {
+                "side": "CLIENT"
+            },
+            "addonId": 1178730,
+            "fileId": 6087679
+        },
+        {
+            "installationPolicy": {
+                "description": "!!!OPTIONAL!!! [GroovyScript] - resource loader / recipe customization"
+            },
+            "addonId": 687577,
+            "fileId": 5789690
+        },
+        {
+            "installationPolicy": {
+                "description": "!!!OPTIONAL!!! [Universal Tweaks] - biggest tweaker mod in existence"
+            },
+            "addonId": 705000,
+            "fileId": 6123916
+        },
+        {
+            "installationPolicy": {
+                "description": "!!!OPTIONAL!!! [Had Enough Items] - maintained fork of JEI"
+            },
+            "addonId": 557549,
+            "fileId": 6187146
+        },
+        {
+            "installationPolicy": {
+                "description": "!!!OPTIONAL!!! [JEI Area Fixer] - fixes many mod GUIs to not overlap with JEI"
+            },
+            "metadata": {
+                "side": "CLIENT"
+            },
+            "addonId": 1085598,
+            "fileId": 5833515
+        },
+        {
+            "installationPolicy": {
+                "description": "!!!OPTIONAL!!! [Keybind Description Fix] - fixes key binding screen descriptions"
+            },
+            "metadata": {
+                "side": "CLIENT"
+            },
+            "addonId": 817804,
+            "fileId": 4364077
+        }
+    ]
+}

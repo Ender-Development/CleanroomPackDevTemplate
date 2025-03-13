@@ -1,0 +1,113 @@
+{
+    "curse": [
+        {
+            "installationPolicy": {
+                "description": "!!!OPTIONAL!!! [Red Core] - library for [Valkyrie] and [Alfheim Lighting Engine]"
+            },
+            "addonId": 873867,
+            "fileId": 6230904
+        },
+        {
+            "installationPolicy": {
+                "description": "!!!OPTIONAL!!! [Valkyrie] - various client optimizations"
+            },
+            "metadata": {
+                "side": "CLIENT"
+            },
+            "addonId": 874067,
+            "fileId": 5891664
+        },
+        {
+            "installationPolicy": {
+                "description": "!!!OPTIONAL!!! [Alfheim Lighting Engine] - rewrites the lighting engine"
+            },
+            "addonId": 910715,
+            "fileId": 6295028
+        },
+        {
+            "installationPolicy": {
+                "description": "!!!OPTIONAL!!! [RenderLib] - library for [Nothirium] and [EntityCulling]"
+            },
+            "metadata": {
+                "side": "CLIENT"
+            },
+            "addonId": 624967,
+            "fileId": 6218131
+        },
+        {
+            "installationPolicy": {
+                "description": "!!!OPTIONAL!!! [Nothirium] - rewrites the rendering engine"
+            },
+            "metadata": {
+                "side": "CLIENT"
+            },
+            "addonId": 624960,
+            "fileId": 6219433
+        },
+        {
+            "installationPolicy": {
+                "description": "!!!OPTIONAL!!! [EntityCulling] - skip rendering on hidden entities"
+            },
+            "metadata": {
+                "side": "CLIENT"
+            },
+            "addonId": 409087,
+            "fileId": 6215595
+        },
+        {
+            "installationPolicy": {
+                "description": "!!!OPTIONAL!!! [CensoredASM] - overall performance optimizations"
+            },
+            "addonId": 460609,
+            "fileId": 6217170
+        },
+        {
+            "installationPolicy": {
+                "description": "!!!OPTIONAL!!! [Naughthirium] - compat between [Nothirium] and [CensoredASM]"
+            },
+            "metadata": {
+                "side": "CLIENT"
+            },
+            "addonId": 409087,
+            "fileId": 6215595
+        },
+        {
+            "installationPolicy": {
+                "description": "!!!OPTIONAL!!! [VintageFix] - overall performance optimizations"
+            },
+            "addonId": 871198,
+            "fileId": 6257508
+        },
+        {
+            "installationPolicy": {
+                "description": "!!!OPTIONAL!!! [Particle Culling] - skip rendering on hidden particles"
+            },
+            "metadata": {
+                "side": "CLIENT"
+            },
+            "addonId": 408853,
+            "fileId": 5337217
+        },
+        {
+            "installationPolicy": {
+                "description": "!!!OPTIONAL!!! [StellarCore] - overall performance optimizations"
+            },
+            "addonId": 1064321,
+            "fileId": 5952608
+        },
+        {
+            "installationPolicy": {
+                "description": "!!!OPTIONAL!!! [Fixeroo] - overall performance optimizations"
+            },
+            "addonId": 633806,
+            "fileId": 6197064
+        },
+        {
+            "installationPolicy": {
+                "description": "!!!OPTIONAL!!! [Sledgehammer (Thin)] - bugfixes all around"
+            },
+            "addonId": 319175,
+            "fileId": 5264331
+        }
+    ]
+}

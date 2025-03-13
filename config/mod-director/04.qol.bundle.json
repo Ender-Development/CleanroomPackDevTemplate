@@ -1,0 +1,42 @@
+{
+    "curse":[
+        {
+            "installationPolicy": {
+                "description": "!!!OPTIONAL!!! [Patchouli ROFL Edition] - maintained fork of Patchouli"
+            },
+            "addonId": 905159,
+            "fileId": 6178311
+        },
+        {
+            "installationPolicy": {
+                "description": "!!!OPTIONAL!!! [Patchouli Books] - additional features for Patchouli"
+            },
+            "addonId": 1133738,
+            "fileId": 6136828
+        },
+        {
+            "installationPolicy": {
+                "description": "!!!OPTIONAL!!! [More Overlays] - light level and chunk boarder overlay"
+            },
+            "metadata": {
+                "side": "CLIENT"
+            },
+            "addonId": 243478,
+            "fileId": 2745657
+        },
+        {
+            "installationPolicy": {
+                "description": "!!!OPTIONAL!!! [Advancement Locator] - locate your advancements with ease"
+            },
+            "addonId": 818503,
+            "fileId": 4723768
+        },
+        {
+            "installationPolicy": {
+                "description": "!!!OPTIONAL!!! [籁/Sound Physics Remixin] - improved sound engine"
+            },
+            "addonId": 951159,
+            "fileId": 6177482
+        }
+    ]
+}

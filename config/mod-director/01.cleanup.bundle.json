@@ -1,0 +1,40 @@
+{
+    "modify": [
+        {
+            "comment": "Delete JEI (BETA) if it gets installed as dependency by another mod. This uses HEI instead.",
+            "folder": "mods",
+            "fileName": "jei_1.12.2-4.16.1.1013.jar",
+            "delete": true
+        },
+        {
+            "comment": "Delete JEI (RELEASE) if it gets installed as dependency by another mod. This uses HEI instead.",
+            "folder": "mods",
+            "fileName": "jei_1.12.2-4.16.1.301.jar",
+            "delete": true
+        },
+        {
+            "comment": "Delete Patchouli if it gets installed as dependency by another mod. This uses Patchouli ROFL Edition instead.",
+            "folder": "mods",
+            "fileName": "Patchouli-1.0-23.6.jar",
+            "delete": true
+        },
+        {
+            "comment": "Delete _MixinBootstrap if it gets installed as dependency by another mod. Already included in Cleanroom.",
+            "folder": "mods",
+            "fileName": "_MixinBootstrap-1.1.0.jar",
+            "delete": true
+        },
+        {
+            "comment": "Delete Foam​Fix. This uses VintageFix.",
+            "folder": "mods",
+            "fileName": "foamfix-0.10.15-1.12.2.jar",
+            "delete": true
+        },
+        {
+            "comment": "Delete VanillaFix. This uses CensoredASM.",
+            "folder": "mods",
+            "fileName": "VanillaFix-1.0.10-150.ja",
+            "delete": true
+        }
+    ]
+}
