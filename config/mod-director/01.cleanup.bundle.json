@@ -33,7 +33,13 @@
         {
             "comment": "Delete VanillaFix. This uses CensoredASM.",
             "folder": "mods",
-            "fileName": "VanillaFix-1.0.10-150.ja",
+            "fileName": "VanillaFix-1.0.10-150.jar",
+            "delete": true
+        },
+        {
+            "comment": "Delete spark. This uses flare.",
+            "folder": "mods",
+            "fileName": "spark-forge.jar",
             "delete": true
         }
     ]

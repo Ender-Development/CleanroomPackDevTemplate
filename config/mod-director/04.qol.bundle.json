@@ -37,6 +37,13 @@
             },
             "addonId": 951159,
             "fileId": 6177482
+        },
+        {
+            "installationPolicy": {
+                "description": "!!!OPTIONAL!!! [Flare] - performance profiler"
+            },
+            "addonId": 692142,
+            "fileId": 6183658
         }
     ]
 }
