@@ -44,6 +44,34 @@
             },
             "addonId": 692142,
             "fileId": 6183658
+        },
+        {
+            "installationPolicy": {
+                "description": "!!!OPTIONAL!!! [Mouse Tweaks Unofficial] - improved mouse features"
+            },
+            "addonId": 461660,
+            "fileId": 5876158
+        },
+        {
+            "installationPolicy": {
+                "description": "!!!OPTIONAL!!! [NeverEnoughAnimation] - fancy inventory animations"
+            },
+            "addonId": 1062347,
+            "fileId": 5698576
+        },
+        {
+            "installationPolicy": {
+                "description": "!!!OPTIONAL!!! [Crafting Tweaks Unofficial] - additional buttons for crafting tables"
+            },
+            "addonId": 633720,
+            "fileId": 3852709
+        },
+        {
+            "installationPolicy": {
+                "description": "!!!OPTIONAL!!! [Inventory Bogo Sorter] - inventory sorting mod"
+            },
+            "addonId": 632327,
+            "fileId": 6170805
         }
     ]
 }

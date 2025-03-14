@@ -34,6 +34,23 @@
             },
             "addonId": 870276,
             "fileId": 5212709
+        },
+        {
+            "installationPolicy": {
+                "description": "!!!OPTIONAL!!! [ModularUI] - Library for multiple CleanroomMC mods"
+            },
+            "addonId": 624243,
+            "fileId": 6206809
+        },
+        {
+            "installationPolicy": {
+                "description": "!!!OPTIONAL!!! [AssetMover] - Library for multiple CleanroomMC mods"
+            },
+            "metadata": {
+                "side": "CLIENT"
+            },
+            "addonId": 571482,
+            "fileId": 4430763
         }
     ]
 }
