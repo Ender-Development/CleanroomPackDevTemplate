@@ -12,7 +12,9 @@
 asm/
 assetmover/
 backups/
-config/jei/**
+config/jei/itemBlacklist\.cfg
+config/jei/searchColors\.cfg
+config/jei/worldSettings\.cfg
 crafttweaker_dump/
 crash-reports/
 downloads/
