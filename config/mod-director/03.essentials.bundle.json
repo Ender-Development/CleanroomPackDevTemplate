@@ -38,14 +38,14 @@
                 "side": "CLIENT"
             },
             "addonId": 1178730,
-            "fileId": 6305514
+            "fileId": 6301169
         },
         {
             "installationPolicy": {
                 "description": "!!!OPTIONAL!!! [GroovyScript] - resource loader / recipe customization"
             },
             "addonId": 687577,
-            "fileId": 5789690
+            "fileId": 6315052
         },
         {
             "installationPolicy": {
