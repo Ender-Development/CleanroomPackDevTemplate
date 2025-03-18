@@ -41,6 +41,18 @@
             "folder": "mods",
             "fileName": "spark-forge.jar",
             "delete": true
+        },
+        {
+            "comment": "RandomPatches is incompatible with Cleanroom.",
+            "folder": "mods",
+            "fileName": "randompatches-1.12.2-1.22.1.10.jar",
+            "delete": true
+        },
+        {
+            "comment": "RandomPatches is incompatible with Cleanroom.",
+            "folder": "mods",
+            "fileName": "rpintegration-1.12.2-1.5.1.0.jar",
+            "delete": true
         }
     ]
 }
