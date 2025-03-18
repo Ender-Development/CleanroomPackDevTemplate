@@ -80,6 +80,13 @@
             },
             "addonId": 817804,
             "fileId": 4364077
+        },
+        {
+            "installationPolicy": {
+                "description": "!!!OPTIONAL!!! [Ender's Modpack Tweaks] - The 'Universal Tweaks' for modpack devs"
+            },
+            "addonId": 1221029,
+            "fileId": 6308360
         }
     ]
 }
