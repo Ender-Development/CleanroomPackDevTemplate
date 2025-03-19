@@ -53,6 +53,12 @@
             "folder": "mods",
             "fileName": "rpintegration-1.12.2-1.5.1.0.jar",
             "delete": true
+        },
+        {
+            "comment": "FermiumBooterRepoliticization is incompatible with Cleanroom.",
+            "folder": "mods",
+            "fileName": "`FermiumBooter-1.1.1.jar",
+            "delete": true
         }
     ]
 }
