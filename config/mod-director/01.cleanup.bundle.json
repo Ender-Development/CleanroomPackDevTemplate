@@ -49,15 +49,21 @@
             "delete": true
         },
         {
-            "comment": "RandomPatches is incompatible with Cleanroom.",
+            "comment": "RandomPatches Integration is incompatible with Cleanroom.",
             "folder": "mods",
             "fileName": "rpintegration-1.12.2-1.5.1.0.jar",
             "delete": true
         },
         {
-            "comment": "FermiumBooterRepoliticization is incompatible with Cleanroom.",
+            "comment": "TwelvefoldASM is incompatible with Cleanroom.",
             "folder": "mods",
-            "fileName": "`FermiumBooter-1.1.1.jar",
+            "fileName": "TwelvefoldASM-5.28.jar",
+            "delete": true
+        },
+        {
+            "comment": "TwelvefoldBooter is incompatible with Cleanroom.",
+            "folder": "mods",
+            "fileName": "`TwelvefoldBooter-195ea8d08df.jar",
             "delete": true
         }
     ]
