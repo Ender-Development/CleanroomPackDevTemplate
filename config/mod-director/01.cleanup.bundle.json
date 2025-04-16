@@ -55,13 +55,13 @@
             "delete": true
         },
         {
-            "comment": "TwelvefoldASM is incompatible with Cleanroom.",
+            "comment": "TwelvefoldASM is incompatible with Cleanroom. (No longer available on CurseForge)",
             "folder": "mods",
             "fileName": "TwelvefoldASM-5.28.jar",
             "delete": true
         },
         {
-            "comment": "TwelvefoldBooter is incompatible with Cleanroom.",
+            "comment": "TwelvefoldBooter is incompatible with Cleanroom. (No longer available on CurseForge)",
             "folder": "mods",
             "fileName": "`TwelvefoldBooter-195ea8d08df.jar",
             "delete": true
