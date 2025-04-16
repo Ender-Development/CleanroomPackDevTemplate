@@ -5,28 +5,28 @@
 				"description": "!!!MANDATORY!!! [Cleanroom Relauncher] - installs Cleanroom"
 			},
             "addonId": 1214490,
-            "fileId": 6299442
+            "fileId": 6407168
         },
         {
             "installationPolicy": {
 				"description": "!!!MANDATORY!!! [Fugue] - patches mods to allow mods to run on Cleanroom"
 			},
             "addonId": 1005815,
-            "fileId": 6278969
+            "fileId": 6424527
         },
         {
             "installationPolicy": {
-                "description": "!!!MANDATORY!!! [Scalar] - patches mods written in Scala to run on Cleanroom"
+                "description": "!!!MANDATORY!!! [Scalar Legacy] - patches mods written in Scala 2.11 to run on Cleanroom"
             },
-            "addonId": 1012168,
-            "fileId": 6130572
+            "addonId": 1235372,
+            "fileId": 6384100
         },
         {
             "installationPolicy": {
                 "description": "!!!MANDATORY!!! [MixinBooter] - dependency for a lot of other mods"
             },
             "addonId": 419286,
-            "fileId": 6156863
+            "fileId": 6344449
         },
         {
             "installationPolicy": {

@@ -15,7 +15,7 @@
                 "side": "CLIENT"
             },
             "addonId": 874067,
-            "fileId": 5891664
+            "fileId": 6377168
         },
         {
             "installationPolicy": {
@@ -32,7 +32,7 @@
                 "side": "CLIENT"
             },
             "addonId": 624967,
-            "fileId": 6218131
+            "fileId": 6327296
         },
         {
             "installationPolicy": {
@@ -42,7 +42,7 @@
                 "side": "CLIENT"
             },
             "addonId": 624960,
-            "fileId": 6219433
+            "fileId": 6328176
         },
         {
             "installationPolicy": {
@@ -59,7 +59,7 @@
                 "description": "!!!OPTIONAL!!! [CensoredASM] - overall performance optimizations"
             },
             "addonId": 460609,
-            "fileId": 6302993
+            "fileId": 6333774
         },
         {
             "installationPolicy": {
@@ -69,14 +69,14 @@
                 "side": "CLIENT"
             },
             "addonId": 409087,
-            "fileId": 6215595
+            "fileId": 6247777
         },
         {
             "installationPolicy": {
                 "description": "!!!OPTIONAL!!! [VintageFix] - overall performance optimizations"
             },
             "addonId": 871198,
-            "fileId": 6300725
+            "fileId": 6412986
         },
         {
             "installationPolicy": {

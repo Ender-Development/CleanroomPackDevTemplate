@@ -18,7 +18,7 @@
                 "side": "CLIENT"
             },
             "addonId": 1207328,
-            "fileId": 6245286
+            "fileId": 6357599
         },
         {
             "installationPolicy": {
@@ -45,14 +45,14 @@
                 "description": "!!!OPTIONAL!!! [GroovyScript] - resource loader / recipe customization"
             },
             "addonId": 687577,
-            "fileId": 5789690
+            "fileId": 6329351
         },
         {
             "installationPolicy": {
                 "description": "!!!OPTIONAL!!! [Universal Tweaks] - biggest tweaker mod in existence"
             },
             "addonId": 705000,
-            "fileId": 6123916
+            "fileId": 6388731
         },
         {
             "installationPolicy": {
